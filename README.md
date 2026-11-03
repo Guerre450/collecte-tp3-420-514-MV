@@ -9,6 +9,7 @@ you will need the following:
 #### Create a python env
 ```python
 python -m venv venv
+source venv/bin/activate
 ```
 #### install dependencies
 ```python
